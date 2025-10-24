@@ -24,6 +24,6 @@ A web-based platform that:
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **Bootstrap 5**
-- **JavaScript (Vanilla)**
+- **Bootstrap 5** 
+- **JavaScript **
 
